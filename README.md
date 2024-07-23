@@ -36,4 +36,4 @@ Este proyecto implementa un simulador de un sistema multiprogramado monoprocesad
 ### Compilación
 
 ```bash
-g++ -o sistema_multiprogramado main.cpp
+g++ -o sistema_multiprogramado DistProporcionalMemoria.cpp
